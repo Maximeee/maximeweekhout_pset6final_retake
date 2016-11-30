@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BioscoopVandaag</string>
+    <string name="title_activity_movie_theatre_list">MovieTheatreListActivity</string>
+    <string name="title_activity_start">BioscoopVandaag</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Wachtwoord</string>
+    <string name="action_sign_in">Registreer</string>
+    <string name="action_sign_in_short">Log in</string>
+    <string name="sign_out">Log uit</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="auth_failed">Inloggen mislukt!</string>
+</resources>

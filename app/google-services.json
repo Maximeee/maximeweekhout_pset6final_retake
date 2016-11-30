@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "969334374669",
+    "firebase_url": "https://bioscoopvandaag-34ed0.firebaseio.com",
+    "project_id": "bioscoopvandaag-34ed0",
+    "storage_bucket": "bioscoopvandaag-34ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969334374669:android:f654a8b6eeb1ba0b",
+        "android_client_info": {
+          "package_name": "com.example.maximeweekhout.bioscoopvandaag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969334374669-qhtfk9epjva1e3qkpqqfi12fl65c950m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maximeweekhout.bioscoopvandaag",
+            "certificate_hash": "3127F84C434EFC47612C4962A47F132AC98EF879"
+          }
+        },
+        {
+          "client_id": "969334374669-pg083h65s1ou4psi8n8vd387ubhvb6c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maximeweekhout.bioscoopvandaag",
+            "certificate_hash": "ACDF8C582480D1EDF89E599E5AED6DC8C4D46708"
+          }
+        },
+        {
+          "client_id": "969334374669-mvaaqvugh68il9i7k5jpdkn54s6tov5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maximeweekhout.bioscoopvandaag",
+            "certificate_hash": "EEC5970D37D1835D3344B2C76AD9F1F671848C1A"
+          }
+        },
+        {
+          "client_id": "969334374669-k7m1e7jgj3ttl7987blsf3mesakir8mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzHc1WhKgwUl3VYerebP4683CvbAYqawY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969334374669-k7m1e7jgj3ttl7987blsf3mesakir8mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
